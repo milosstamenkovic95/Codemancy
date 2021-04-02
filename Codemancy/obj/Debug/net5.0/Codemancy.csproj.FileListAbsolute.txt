@@ -1,0 +1,32 @@
+C:\Users\Milos\source\repos\Codemancy\bin\Debug\net5.0\Codemancy.exe
+C:\Users\Milos\source\repos\Codemancy\bin\Debug\net5.0\Codemancy.deps.json
+C:\Users\Milos\source\repos\Codemancy\bin\Debug\net5.0\Codemancy.runtimeconfig.json
+C:\Users\Milos\source\repos\Codemancy\bin\Debug\net5.0\Codemancy.runtimeconfig.dev.json
+C:\Users\Milos\source\repos\Codemancy\bin\Debug\net5.0\Codemancy.dll
+C:\Users\Milos\source\repos\Codemancy\bin\Debug\net5.0\ref\Codemancy.dll
+C:\Users\Milos\source\repos\Codemancy\bin\Debug\net5.0\Codemancy.pdb
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\Codemancy.csprojAssemblyReference.cache
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\Codemancy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\Codemancy.AssemblyInfoInputs.cache
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\Codemancy.AssemblyInfo.cs
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\Codemancy.csproj.CoreCompileInputs.cache
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\Codemancy.dll
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\ref\Codemancy.dll
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\Codemancy.pdb
+C:\Users\Milos\source\repos\Codemancy\obj\Debug\net5.0\Codemancy.genruntimeconfig.cache
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\bin\Debug\net5.0\Codemancy.exe
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\bin\Debug\net5.0\Codemancy.deps.json
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\bin\Debug\net5.0\Codemancy.runtimeconfig.json
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\bin\Debug\net5.0\Codemancy.runtimeconfig.dev.json
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\bin\Debug\net5.0\Codemancy.dll
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\bin\Debug\net5.0\ref\Codemancy.dll
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\bin\Debug\net5.0\Codemancy.pdb
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\Codemancy.csprojAssemblyReference.cache
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\Codemancy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\Codemancy.AssemblyInfoInputs.cache
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\Codemancy.AssemblyInfo.cs
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\Codemancy.csproj.CoreCompileInputs.cache
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\Codemancy.dll
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\ref\Codemancy.dll
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\Codemancy.pdb
+C:\Users\Milos\Desktop\Codemancy Tasks\Codemancy\obj\Debug\net5.0\Codemancy.genruntimeconfig.cache
